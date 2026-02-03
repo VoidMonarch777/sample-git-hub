@@ -49,7 +49,7 @@ Output is written to:  log.txt
 
 Run:
 
-```bash
+```bash```
 python main.py
 🖱 2️⃣ Mouse Movement Listener
 
